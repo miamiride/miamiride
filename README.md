@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nephis Ongeri</h1>
-<h3 align="center">A highly motivated frontend developer from Kenya</h3>
+<h3 align="center">A highly motivated front-end developer from Kenya</h3>
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU">
 
 - 🔭 I’m currently working on **Online Clothes Shopping Website**
